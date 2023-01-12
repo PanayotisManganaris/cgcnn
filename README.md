@@ -194,6 +194,3 @@ This software was primarily written by [Tian Xie](http://txie.me) who was advise
 ## License
 
 CGCNN is released under the MIT License.
-
-
-
